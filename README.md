@@ -47,4 +47,4 @@ On the basis of our analysis we gave various recommendations. I believe that on 
 - 💞️ I’m would love to collaborate on Machine Learning projects.
 - 📫 How to reach me : manipavangmanipavang637@gmail.com
 - 💞️ LinkedIn : https://www.linkedin.com/in/manikanta22/
-![Logo](https://www.google.com/search?q=thankyou&sxsrf=ALiCzsYuMqjDEpQDO90hH63QFMVEXVHJxA:1654330092249&source=lnms&tbm=isch&sa=X&ved=2ahUKEwje-_Trq5P4AhVX4jgGHV-QB7MQ_AUoAXoECAIQAw&biw=1366&bih=629&dpr=1#imgrc=zLlr2agD6BPmcM)
+
